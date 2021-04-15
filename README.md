@@ -4,6 +4,13 @@ Hello!👋
 <h1>STACK</h1>
 
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=C%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
+
 <!--
 **yeonha99/yeonha99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
