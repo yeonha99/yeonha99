@@ -12,6 +12,9 @@ Hello!👋
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyh1207)](https://solved.ac/jyh1207/)
+
 <!--
 **yeonha99/yeonha99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
