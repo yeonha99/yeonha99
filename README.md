@@ -13,7 +13,6 @@ Hello!👋
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyh1207)](https://solved.ac/jyh1207/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonha99)](https://github.com/yeonha99/github-readme-stats)
 
 
